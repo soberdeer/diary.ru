@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Diary</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+
+    <string name="prompt_login">Логин</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_incorrect_password">Неверный логин или пароль</string>
+    <string name="error_field_required">Это обязательное поле</string>
+</resources>

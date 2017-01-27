@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_new_post"
+            android:icon="@drawable/ic_menu_new_post"
+            android:title="Новая запись" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_menu_star"
+            android:title="Избранное" />
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mail"
+            android:icon="@drawable/ic_menu_email"
+            android:title="U-mail" />
+        <item
+            android:id="@+id/nav_discussions"
+            android:icon="@drawable/ic_menu_discussion"
+            android:title="Дискуссии" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="Настройки" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

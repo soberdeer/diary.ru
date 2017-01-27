@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A40404</color>
+    <color name="colorPrimaryDark">#7F0303</color>
+    <color name="colorAccent">#EECB9D</color>
+
+    <color name="white">#ffffff</color>
+    <color name="post_bg">#d3d6db</color>
+    <color name="post_item_bg">#ffffff</color>
+    <color name="post_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+</resources>
