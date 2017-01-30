@@ -12,4 +12,5 @@
     <string name="action_sign_in_short">Войти</string>
     <string name="error_incorrect_password">Неверный логин или пароль</string>
     <string name="error_field_required">Это обязательное поле</string>
+    <string name="error_auth">Авторизация не удалась</string>
 </resources>
